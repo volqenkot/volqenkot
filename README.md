@@ -1,45 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Volqe's Profile!</title>
-</head>
-<body>
-    <h1>👋 Hey there, I'm Volqe!</h1>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+21333
+Fork on GitHub
+6683
 
-    <h2>🎉 About Me</h2>
-    <p>
-        I'm a 21-year-old coding enthusiast who loves to dive deep into the world of Java! Whether it's building apps or solving puzzles, I’m always up for a challenge.
-    </p>
+back to edit
 
-    <h2>💻 Tech Skills</h2>
-    <ul>
-        <li><strong>Languages:</strong> Java (my jam!)</li>
-        <li><strong>Frameworks:</strong> Still exploring!</li>
-        <li><strong>Tools:</strong> Git, and anything else that makes coding easier!</li>
-    </ul>
+copy-markdown
 
-    <h2>🚀 Fun Facts</h2>
-    <p>
-        I might be a developer by day, but I'm also a content creator by night! Follow my adventures on social media and join me on my coding journey.
-    </p>
+download markdown
 
-    <h2>🌍 Find Me Online</h2>
-    <ul>
-        <li>📸 <a href="https://www.instagram.com/zar_mto" target="_blank">Instagram</a> - Come for the code, stay for the memes!</li>
-        <li>🎵 <a href="https://www.tiktok.com/@volqenmeister" target="_blank">TikTok</a> - Short videos, big laughs, and coding tips!</li>
-        <li>🎥 <a href="https://www.youtube.com/volqenmeister" target="_blank">YouTube</a> - Join me as I tackle projects and share my coding experiences!</li>
-    </ul>
+download backup
 
-    <h2>📈 My GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=volqe&show_icons=true&theme=radical" alt="Volqe's GitHub Stats">
+preview
+<h3 align="center">I'm an aspiring youtuber who codes crazy and fun things.</h3>
 
-    <h2>🎯 What's Next?</h2>
-    <p>
-        I'm currently sharpening my skills in Java and exploring new technologies. Who knows what the future holds? Maybe a cool project or two!
-    </p>
+<p align="left"> <a href="https://twitter.com/volqenmeister" target="blank"><img src="https://img.shields.io/twitter/follow/volqenmeister?logo=twitter&style=for-the-badge" alt="volqenmeister" /></a> </p>
 
-    <p>Thanks for stopping by my GitHub! Let's connect and share some code! 🚀</p>
-</body>
-</html>
+- 🛠️ youtube projects [volqe](https://youtube.com/@volqenmeister)
+
+- 💡 I’m currently learning **C#**
+
+- 📫 How to reach me **discord: @volqe**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/volqenmeister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="volqenmeister" height="30" width="40" /></a>
+<a href="https://instagram.com/zar_mto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zar_mto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/volqenmeister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="volqenmeister" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volqenkot&show_icons=true&locale=en&layout=compact" alt="volqenkot" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
