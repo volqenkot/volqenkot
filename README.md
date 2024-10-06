@@ -1,8 +1,12 @@
 <h3 align="center">I'm an aspiring youtuber who codes crazy and fun things.</h3>
 
-- 🛠️ youtube projects [volqe](https://youtube.com/@volqenmeister)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=volqenkot&label=Profile%20views&color=0e75b6&style=flat" alt="volqenkot" /> </p>
+
+- 🛠️ still working for youtube projects [Main Project](https://youtube.com/@volqenmeister)
 
 - 💡 I’m currently learning **C#**
+
+- 👨🏾‍💻 for voyal.net minecraft network **VOYAL**
 
 - 📫 How to reach me **discord: @volqe**
 
