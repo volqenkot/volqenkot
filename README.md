@@ -1,7 +1,5 @@
 <h3 align="center">I'm an aspiring youtuber who codes crazy and fun things.</h3>
 
-<p align="left"> <a href="https://twitter.com/volqenmeister" target="blank"><img src="https://img.shields.io/twitter/follow/volqenmeister?logo=twitter&style=for-the-badge" alt="volqenmeister" /></a> </p>
-
 - 🛠️ youtube projects [volqe](https://youtube.com/@volqenmeister)
 
 - 💡 I’m currently learning **C#**
