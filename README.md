@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volqenkot&label=Profile%20views&color=0e75b6&style=flat" alt="volqenkot" /> </p>
 
-- 🛠️ still working for youtube projects [Main Project](https://youtube.com/@volqenmeister)
+- 🛠️ still working for youtube projects [voyal-rest](google.com)
 
 - 💡 I’m currently learning **C#**
 
