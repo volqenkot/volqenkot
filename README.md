@@ -1,4 +1,4 @@
-<h3 align="center">I'm an aspiring youtuber who codes crazy and fun things.</h3>
+<h3 align="center">I'm an aspiring guy who codes crazy and funny things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volqenkot&label=Profile%20views&color=0e75b6&style=flat" alt="volqenkot" /> </p>
 
