@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=volqenkot&label=Profile%20views&color=0e75b6&style=flat" alt="volqenkot" /> </p>
 
-- 🛠️ still working for my minecraft network [voyal network](https://discord.gg/GGXJP5xVcf)
+- 🛠️ still working for my minecraft network [voyal network](https://voyal.net)
 
 - 📫 How to reach me **discord: @volqe**
 
